@@ -1,8 +1,7 @@
-# Fortnite Cosmetics Website
+# ayywillibus.github.io
 
-### 
-Just a fortnite cosmetics website.
+## What is this?
+It's just my website. 
 
-## Updates? 
-Won't be updating this with information about it. Its pretty straight forward anyways.
-
+## Will I update this?
+Mhm.
