@@ -1,6 +1,7 @@
 body {
 	background-image: url("dino.jpg");
 	background-repeat: no-repeat;
+	background-size: 1920px 1080px;
 }
 
 .wrapper {
