@@ -1,6 +1,5 @@
 body {
 	background-image: url("dino.jpg");
-	filter: blur(5px);
 }
 
 .wrapper {
