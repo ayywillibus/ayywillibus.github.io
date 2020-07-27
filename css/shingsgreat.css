@@ -2,12 +2,16 @@ html {
   font-family: Helvetica;
   color: #a5a096;
   background-color: #313231;
+  padding: 20px;
+}
+
+.wrapper {
+    text-align: center;
 }
 
 h3 {
     color: #525656;
 }
-
 
 #navbar {
     background-color: #525656;
@@ -20,37 +24,15 @@ h3 {
     color: #444444;
 }
 
-nav1 {
+#navbar a {
     color:#9a90b4;
     text-decoration: none;
     padding-left: 7.5px;
     padding-right: 7.5px;
 }
 
-nav2 {
-    color:#799645;
-    text-decoration: none;
-    padding-left: 7.5px;
-    padding-right: 7.5px;
+#navbar a:hover {
+    color: #f7a021;
 }
 
-nav3 {
-    color:#f39e22;
-    text-decoration: none;
-    padding-left: 7.5px;
-    padding-right: 7.5px;
-}
 
-nav4 {
-    color:#9a90b4;
-    text-decoration: none;
-    padding-left: 7.5px;
-    padding-right: 7.5px;
-}
-
-nav5 {
-    color:#db452ea;
-    text-decoration: none;
-    padding-left: 7.5px;
-    padding-right: 7.5px;
-}
