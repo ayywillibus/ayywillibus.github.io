@@ -1,1 +1,56 @@
+html {
+  font-family: Helvetica;
+  color: #a5a096;
+  background-color: #313231;
+}
 
+h3 {
+    color: #525656;
+}
+
+
+#navbar {
+    background-color: #525656;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: #444444;
+}
+
+nav1 {
+    color:#9a90b4;
+    text-decoration: none;
+    padding-left: 7.5px;
+    padding-right: 7.5px;
+}
+
+nav2 {
+    color:#799645;
+    text-decoration: none;
+    padding-left: 7.5px;
+    padding-right: 7.5px;
+}
+
+nav3 {
+    color:#f39e22;
+    text-decoration: none;
+    padding-left: 7.5px;
+    padding-right: 7.5px;
+}
+
+nav4 {
+    color:#9a90b4;
+    text-decoration: none;
+    padding-left: 7.5px;
+    padding-right: 7.5px;
+}
+
+nav5 {
+    color:#db452ea;
+    text-decoration: none;
+    padding-left: 7.5px;
+    padding-right: 7.5px;
+}
