@@ -1,6 +1,12 @@
-*{
+body {
     margin: 0;
     padding: 5px;
+    height: 100vh;
+}
+
+#particles-js {
+    height: 100%;
+    background: 313231;
 }
 
 html {
@@ -8,19 +14,6 @@ html {
   color: #a5a096;
   background-color: #313231;
   padding: 20px;
-  
-}
-
-html,body {
-    height: 100%;
-}
-
-.header {
-    -webkit-background-size:cover;
-    background-size:cover;
-    background-position:center center;
-    height: 100vh;
-    width: 100%;
 }
 
 .wrapper {
